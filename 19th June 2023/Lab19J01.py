@@ -1,6 +1,7 @@
 # Functions
 
 # 1 - Function without Argument and No Return
+# in python function name or method name should be lowercase letter
 def greet():  # Function Defination
     print("Hello")
 

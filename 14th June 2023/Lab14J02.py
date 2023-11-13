@@ -3,6 +3,7 @@ for num in range(2, 10):  # 2,3,4,5,6,7,8,9
         print("Even Number -> " + str(num))
         pass # Do Nothing
     print("Odd Number -> " +str(num))
+
 print("End")
 
 

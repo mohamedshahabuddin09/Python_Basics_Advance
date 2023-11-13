@@ -1,4 +1,4 @@
-parameter = "Pramoda"
+parameter = "Pramodq"
 
 match parameter:
     case "Pramod":

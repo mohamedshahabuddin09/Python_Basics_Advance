@@ -6,7 +6,7 @@ json_data_str = '{"name": "John", "age": 30, "city": "New York"}'
 # JSON to dic
 
 py_dict = json.loads(json_data_str)
-
+print(py_dict)
 print(type(py_dict))
 print(py_dict["name"])
 print(py_dict["age"])

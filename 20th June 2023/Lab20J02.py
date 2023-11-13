@@ -1,7 +1,11 @@
 bool_val = int(False)
 print(bool_val)
 
+adding=bool_val+2
+print(adding)# output is 2
+
 # Int(True) ->  1, for False ->0
+
 
 
 #Str to Int

@@ -21,7 +21,8 @@ result2 = mul3(9)
 print(result2)
 
 final_result = lambda num: num+1
-print(final_result(9))
+out=final_result(9)
+print(out)
 
 
 # def anonymous(num):

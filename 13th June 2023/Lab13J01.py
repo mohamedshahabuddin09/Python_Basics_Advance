@@ -1,5 +1,5 @@
 while True:
-    print("pramod")
+    print("Shabu")
 
 #Loop -> infinite
 # Any Exit condition ?

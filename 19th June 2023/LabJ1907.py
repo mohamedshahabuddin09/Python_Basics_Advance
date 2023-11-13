@@ -1,4 +1,4 @@
-# Built - in Python
+# Built in function - in Python
 
 # print
 # sum

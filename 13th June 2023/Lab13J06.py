@@ -1,3 +1,3 @@
-print(4+"Pramod")
+print(4+"shabu")
 
 # str(int) + str

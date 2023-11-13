@@ -10,8 +10,8 @@ class Dog(Animal):
         print("Dog Sound")
 
 
-animal = Animal()
-animal.sound()
+# animal = Animal()
+# animal.sound()
 
 dog = Dog()
 dog.sound()

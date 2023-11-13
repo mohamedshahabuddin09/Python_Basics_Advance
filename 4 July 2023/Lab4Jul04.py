@@ -12,8 +12,8 @@
 #     print("File reading completed successfully.")
 
 
-from PyPackage import Mod1 as p
-print(p.sum(1,2))
+from PyPackage import Mod1
+print(Mod1.sum(1,2))
 
 
 import math
